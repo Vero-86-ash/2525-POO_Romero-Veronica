@@ -1,0 +1,32 @@
+[
+    {
+        "id": "P001",
+        "nombre": "Pera",
+        "cantidad": 50,
+        "precio": 0.5
+    },
+    {
+        "id": "P002",
+        "nombre": "Uvas",
+        "cantidad": 100,
+        "precio": 2.0
+    },
+    {
+        "id": "P003",
+        "nombre": "Leche",
+        "cantidad": 30,
+        "precio": 1.0
+    },
+    {
+        "id": "P004",
+        "nombre": "Pan",
+        "cantidad": 40,
+        "precio": 0.8
+    },
+    {
+        "id": "P005",
+        "nombre": "Arroz",
+        "cantidad": 60,
+        "precio": 0.6
+    }
+]
