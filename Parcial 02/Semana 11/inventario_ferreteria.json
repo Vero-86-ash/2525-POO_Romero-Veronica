@@ -1,38 +1,44 @@
 [
   {
     "id": "CLA-1",
-    "nombre": "Clavo 2 pulgadas",
+    "nombre": "Clavo",
     "cantidad": 100,
     "precio": 0.1
   },
   {
     "id": "TOR-10",
-    "nombre": "Tornillo 1/4\" x 2\"",
+    "nombre": "Tornillo \"",
     "cantidad": 350,
     "precio": 0.22
   },
   {
     "id": "MAR-100",
-    "nombre": "Martillo de bola 16oz",
+    "nombre": "Martillo",
     "cantidad": 25,
     "precio": 8.5
   },
   {
     "id": "DES-50",
-    "nombre": "Destornillador Phillips #2",
+    "nombre": "Destornillador",
     "cantidad": 40,
     "precio": 2.55
   },
   {
     "id": "TAL-200",
-    "nombre": "Taladro percutor 700W",
+    "nombre": "Taladro",
     "cantidad": 10,
     "precio": 50.99
   },
   {
     "id": "PIN-20",
-    "nombre": "Pintura látex blanca 1gal",
+    "nombre": "Pintura",
     "cantidad": 18,
     "precio": 19.5
+  },
+  {
+    "id": "PAL",
+    "nombre": "Pala",
+    "cantidad": 5,
+    "precio": 7.0
   }
 ]
