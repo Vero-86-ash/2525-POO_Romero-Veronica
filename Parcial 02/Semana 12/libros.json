@@ -1,0 +1,50 @@
+[
+    {
+        "titulo": "Cien Años de Soledad",
+        "autor": "Gabriel García Márquez",
+        "categoria": "Novela",
+        "isbn": "1000000001"
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "categoria": "Distopía",
+        "isbn": "1000000002"
+    },
+    {
+        "titulo": "Breve Historia del Tiempo",
+        "autor": "Stephen Hawking",
+        "categoria": "Ciencia",
+        "isbn": "1000000003"
+    },
+    {
+        "titulo": "El Alquimista",
+        "autor": "Paulo Coelho",
+        "categoria": "Novela",
+        "isbn": "1000000004"
+    },
+    {
+        "titulo": "Sapiens: De Animales a Dioses",
+        "autor": "Yuval Noah Harari",
+        "categoria": "Historia",
+        "isbn": "1000000005"
+    },
+    {
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "categoria": "Distopía",
+        "isbn": "1000000006"
+    },
+    {
+        "titulo": "La Metamorfosis",
+        "autor": "Franz Kafka",
+        "categoria": "Novela",
+        "isbn": "1000000007"
+    },
+    {
+        "titulo": "Los Pilares de la Tierra",
+        "autor": "Ken Follett",
+        "categoria": "Historia",
+        "isbn": "1000000008"
+    }
+]

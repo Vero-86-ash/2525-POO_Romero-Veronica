@@ -1,0 +1,62 @@
+{
+    "libros": [
+        {
+            "titulo": "Harry Potter y la piedra filosofal",
+            "autor": "J.K. Rowling",
+            "categoria": "Fantasía",
+            "isbn": "1234567890123"
+        },
+        {
+            "titulo": "Cuentos de la selva",
+            "autor": "Horacio Quiroga",
+            "categoria": "Cuentos",
+            "isbn": "0987654321"
+        },
+        {
+            "titulo": "Matilda",
+            "autor": "Roald Dahl",
+            "categoria": "Fantasía",
+            "isbn": "9876543210123"
+        },
+        {
+            "titulo": "Alicia en el país de las maravillas",
+            "autor": "Lewis Carroll",
+            "categoria": "Cuentos",
+            "isbn": "1112223334"
+        }
+    ],
+    "usuarios": [
+        {
+            "nombre": "Ashley",
+            "id_usuario": "U1",
+            "libros_prestados": [
+                {
+                    "titulo": "El Principito",
+                    "autor": "Antoine de Saint-Exupéry",
+                    "categoria": "Cuentos",
+                    "isbn": "1234567890"
+                }
+            ],
+            "historial": [
+                {
+                    "titulo": "El Principito",
+                    "autor": "Antoine de Saint-Exupéry",
+                    "categoria": "Cuentos",
+                    "isbn": "1234567890"
+                }
+            ]
+        },
+        {
+            "nombre": "Cristian",
+            "id_usuario": "U2",
+            "libros_prestados": [],
+            "historial": []
+        },
+        {
+            "nombre": "Saul",
+            "id_usuario": "U3",
+            "libros_prestados": [],
+            "historial": []
+        }
+    ]
+}
