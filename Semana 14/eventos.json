@@ -1,0 +1,27 @@
+[
+    {
+        "fecha": "15/09/2025",
+        "hora": "09:00",
+        "descripcion": "Reunión con equipo"
+    },
+    {
+        "fecha": "16/09/2025",
+        "hora": "14:30",
+        "descripcion": "Entrega de proyecto"
+    },
+    {
+        "fecha": "18/09/2025",
+        "hora": "8:30",
+        "descripcion": "2da Conferencia"
+    },
+    {
+        "fecha": "20/09/2025",
+        "hora": "7:30",
+        "descripcion": "Clase encuentro POO"
+    },
+    {
+        "fecha": "20/09/2025",
+        "hora": "9:00",
+        "descripcion": "Clase Fisica II"
+    }
+]
