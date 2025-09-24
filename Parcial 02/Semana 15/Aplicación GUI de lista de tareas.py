@@ -213,7 +213,3 @@ mostrar_tareas()
 # Ejecutar
 # -------------------------------
 app.mainloop()
-
-
-
-

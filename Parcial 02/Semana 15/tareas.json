@@ -1,29 +1,37 @@
 {
     "1": {
-        "texto": "Tarea de matemática",
-        "completada": true,
-        "fecha": "24/09/2025",
+        "texto": "Realizar tarea de Física",
+        "completada": false,
+        "fecha": "26/09/2025",
+        "hora": "08:00",
+        "descripcion": ""
+    },
+    "2": {
+        "texto": "Matemáticas",
+        "completada": false,
+        "fecha": "26/09/2025",
         "hora": "10:00",
         "descripcion": "Infografia"
     },
     "3": {
-        "texto": "Evaluación Estadistica",
-        "completada": false,
-        "fecha": "25/09/2025",
-        "hora": "10:00"
-    },
-    "4": {
         "texto": "POO",
         "completada": true,
         "fecha": "23/09/2025",
         "hora": "08:00",
-        "descripcion": "Gestion de tareas"
+        "descripcion": "Tarea"
+    },
+    "4": {
+        "texto": "S.O",
+        "completada": false,
+        "fecha": "25/09/2025",
+        "hora": "16:00",
+        "descripcion": "Evaluacion"
     },
     "5": {
         "texto": "Tutoria",
         "completada": false,
-        "fecha": "26/09/2025",
-        "hora": "18:00",
+        "fecha": "27/09/2025",
+        "hora": "07:30",
         "descripcion": "POO"
     }
 }
